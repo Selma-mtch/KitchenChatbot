@@ -1,0 +1,25 @@
+# Python
+backend/chatbot/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Node / React
+frontend/node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.sqlite3
+*.db
